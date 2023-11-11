@@ -1,0 +1,119 @@
+{
+"name":"PRIMERA PWD",
+"short_name":"PWA",
+"description":"Aplicacion PWA de IDGS101N",
+"background_color":"white",
+"theme_color":"#2000ad",
+"orientation":"portrait",
+"display": "standalone",
+"start_url":"./index.html?utm_source=web_app_manifest",
+"scope":"./",
+"lang":"es-MX",
+"icons":[
+    {
+        "src":"./assets/img/Transformers 1024x1024.png",
+        "sizes":"1024x1024",
+        "type":"img/png"
+    },
+    {
+        "src":"./assets/img/Transformers 512x512.png",
+        "sizes":"512x512",
+        "type":"img/png"
+    },
+    {
+        "src":"./assets/img/Transformers 384x384.png",
+        "sizes":"384x384",
+        "type":"img/png"
+    },
+    {
+        "src":"./assets/img/Transformers 256x256.png",
+        "sizes":"256x256",
+        "type":"img/png"
+    },
+    {
+        "src":"./assets/img/Transformers 192x192.png",
+        "sizes":"192x192",
+        "type":"img/png"
+    },
+    {
+        "src":"./assets/img/Transformers 128x128.png",
+        "sizes":"128x128",
+        "type":"img/png"
+    },
+    {
+        "src":"./assets/img/Transformers 1024x1024.png",
+        "sizes":"1024x1024",
+        "type":"img/png"
+    },
+    {
+        "src":"./assets/img/Transformers 1024x1024.png",
+        "sizes":"1024x1024",
+        "type":"img/png"
+    },
+    {
+        "src":"./assets/img/Transformers 1024x1024.png",
+        "sizes":"1024x1024",
+        "type":"img/png"
+    },
+    {
+        "src":"./assets/img/Transformers 96x96.png",
+        "sizes":"96x96",
+        "type":"img/png"
+    },
+    {
+        "src":"./assets/img/Transformers 64x64.png",
+        "sizes":"64x64",
+        "type":"img/png"
+    },
+    {
+        "src":"./assets/img/Transformers 32X32.png",
+        "sizes":"32x32",
+        "type":"img/png"
+    },
+    {
+        "src":"./assets/img/Transformers 16X16.png",
+        "sizes":"16x16",
+        "type":"img/png"
+    },
+    {
+        "src":"./assets/img/about.jpg",
+        "sizes":"16x16",
+        "type":"img/png"
+    },
+    {
+        "src":"./assets/img/apple-touch-icon.png",
+        "sizes":"16x16",
+        "type":"img/png"
+    },
+    {
+        "src":"./assets/img/counts-img.jpg",
+        "sizes":"16x16",
+        "type":"img/png"
+    },
+    {
+        "src":"./assets/img/cta-bg.jpg",
+        "sizes":"16x16",
+        "type":"img/png"
+    },
+    {
+        "src":"./assets/img/favicon.png",
+        "sizes":"16x16",
+        "type":"img/png"
+    },
+    {
+        "src":"./assets/img/features.jpg",
+        "sizes":"16x16",
+        "type":"img/png"
+    },
+    {
+        "src":"./assets/img/hero-bg.jpg",
+        "sizes":"16x16",
+        "type":"img/png"
+    },
+    {
+        "src":"./assets/img/testimonials-bg.jpg",
+        "sizes":"16x16",
+        "type":"img/png"
+    }
+]
+}
